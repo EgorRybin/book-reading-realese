@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f079ba47.css",
+    "main.js": "/static/js/main.4d0d50db.js",
+    "static/media/imgDesktop.jpg": "/static/media/imgDesktop.effa0dcc8122d8ad1695.jpg",
+    "static/media/imgTablet.jpg": "/static/media/imgTablet.4c4cec88bed8ecc6bebf.jpg",
+    "static/media/google-icon.svg": "/static/media/google-icon.c991d72953f51196ca285c54b00b70df.svg",
+    "static/media/imgPhone.jpg": "/static/media/imgPhone.77038ae03af4f53fad7a.jpg",
+    "static/media/Flat.svg": "/static/media/Flat.d828e3a2f5b1c8675693c8c69851cf50.svg",
+    "static/media/book.svg": "/static/media/book.d28232546662e454985c8d0069101101.svg",
+    "static/media/GreyBook.svg": "/static/media/GreyBook.400d5214daac650c59df6ee28b1b12c2.svg",
+    "index.html": "/index.html",
+    "static/media/OrangeBook.svg": "/static/media/OrangeBook.66088834ad16bc76285a68b1f5bdaf26.svg",
+    "static/media/finger.svg": "/static/media/finger.d95c3a74273a678fc678f90603cc1497.svg",
+    "static/media/checkboxChecked.svg": "/static/media/checkboxChecked.130ba5f4dcd6af2507d2cd92da69d278.svg",
+    "static/media/Arrow.svg": "/static/media/Arrow.d0a21fea0323fe7975a4b3add570063d.svg",
+    "static/media/delete.svg": "/static/media/delete.87236e2c051373c9535794d302e63568.svg",
+    "static/media/home.svg": "/static/media/home.c9b04510b18f771bda9be8b2a296c2da.svg",
+    "static/media/checkboxDisabled.svg": "/static/media/checkboxDisabled.44d1d63a715ad5341e59bd644db0faaa.svg",
+    "static/media/line.svg": "/static/media/line.428073786aa3a2bcbd4015786b179c46.svg",
+    "main.f079ba47.css.map": "/static/css/main.f079ba47.css.map",
+    "main.4d0d50db.js.map": "/static/js/main.4d0d50db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f079ba47.css",
+    "static/js/main.4d0d50db.js"
+  ]
+}
