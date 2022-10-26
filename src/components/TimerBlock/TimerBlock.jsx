@@ -1,4 +1,4 @@
-// import MyGoals from 'components/MyGoals/MyGoals';
+
 import React from 'react';
 import {
 	TimerMain,
