@@ -10,7 +10,7 @@ import { ReviewContextProvider } from 'components/ReviewContext/ReviewContext';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  // <React.StrictMode>
+  <React.StrictMode>
     <BrowserRouter
       // basename="/BOOKS-READING"
     >
@@ -23,5 +23,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           </PersistGate>
       </Provider>
     </BrowserRouter>
-//  </React.StrictMode>
+ </React.StrictMode>
 );
